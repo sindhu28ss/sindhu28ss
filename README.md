@@ -9,7 +9,7 @@ I am a Data Science enthusiast pursuing a Master’s in Business Analytics with 
 - **Professional Experience**: Over 5 years of experience as a Data Analyst at Amazon and Programmer Analyst at Cognizant, specializing in data analytics and machine learning to drive business insights and innovation.
 
 ### 💼 What I'm Looking For
-I'm actively seeking roles in Data Science, Analytics, GEN AI, Machine Learning and Business Intelligence . I am passionate about utilizing my analytical skills and machine learning expertise to solve complex problems and drive successful outcomes in a dynamic environment.
+I'm actively seeking roles in Data Science, Analytics, GEN AI, Machine Learning and Business Intelligence . I am passionate about utilizing my analytical skills and machine learning expertise to solve business problems and drive successful outcomes in a dynamic environment.
 
 ### 🛠️ Technical Skills
 - **Languages**: Python (Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch, Keras), SQL, R
