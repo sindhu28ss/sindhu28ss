@@ -6,7 +6,7 @@ I am a Data Science enthusiast pursuing a Master’s in Business Analytics with 
 ### 🚀 My Journey
 - **Currently Seeking**: Full-time opportunities in Data Science, Analytics, and AI/ML roles.
 - **Education**: Master's in Business Analytics at California State University, East Bay
-- **Professional Experience**: Over 5 years of professional experience as a Data Analyst at Amazon and Cognizant, specializing in data analytics and machine learning to drive business insights and innovation.
+- **Professional Experience**: Over 5 years of experience as a Data Analyst at Amazon and Programmer Analyst at Cognizant, specializing in data analytics and machine learning to drive business insights and innovation.
 
 ### 💼 What I'm Looking For
 I'm actively seeking roles in Data Science, Analytics, GEN AI, Machine Learning and Business Intelligence . I am passionate about utilizing my analytical skills and machine learning expertise to solve complex problems and drive successful outcomes in a dynamic environment.
@@ -30,22 +30,6 @@ If you're interested in discussing job opportunities, projects, or potential col
 - **Email**: [sindhu28ss@gmail.com](mailto:your.email@example.com)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--
 **sindhu28ss/sindhu28ss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -59,4 +43,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+--!>
