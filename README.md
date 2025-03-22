@@ -21,7 +21,7 @@ I'm actively seeking roles in Data Science, Analytics, GEN AI, Machine Learning 
 - **DevOps & Tools**: Git, Docker, Kubernetes, Jupyter, MS Visual Studio, Teradata SQL Assistant, Excel, JIRA
 
 ### 📚 Education
-- **Master’s in Business Analytics**, California State University, East Bay, USA (Expected Graduation: [May, 2025])
+- **Master’s in Business Analytics**, California State University, East Bay, USA (Expected Graduation: May, 2025)
 - **Bachelor’s in Electrical and Electronics Engineering**, Anna University, India
 
 ### 📫 Let's Connect
