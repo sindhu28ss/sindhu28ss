@@ -26,7 +26,7 @@ I'm actively seeking roles in Data Science, Analytics, GEN AI, Machine Learning 
 
 ### 📫 Let's Connect
 If you're interested in discussing job opportunities, projects, or potential collaborations, please reach out to me:
-- **LinkedIn**: [https://www.linkedin.com/in/sindhuja-arivukkarasu/]
+- **LinkedIn**: https://www.linkedin.com/in/sindhuja-arivukkarasu/
 - **Email**: [sindhu28ss@gmail.com](mailto:your.email@example.com)
 
 
